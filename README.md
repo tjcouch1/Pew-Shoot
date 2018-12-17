@@ -10,10 +10,10 @@ I tweaked it a bit to make it a finished product and [released it on GameJolt](h
 
 I updated it to feature one-button controls and crisp graphics. Released for Windows, Android, and HTML5.
 
+[Play it in browser on itch.io!](https://kanestaff.itch.io/pew-shoot)
+
 ![](https://github.com/tjcouch1/Pew-Shoot/blob/master/Screens/pewshootv1.1.gif)
 
 The 1.5-hour version looks like this:
 
 ![](https://github.com/tjcouch1/Pew-Shoot/blob/master/Screens/pewshoot1.5.gif)
-
-[Check out the latest version on itch.io!](https://kanestaff.itch.io/pew-shoot)
