@@ -1,6 +1,6 @@
 ///loadScore()
 
-if (file_exists(working_directory + "score.txt"))
+if (os_browser == browser_not_a_browser && file_exists(working_directory + "score.txt"))
 {
     var file = file_text_open_read(working_directory + "score.txt");
     
